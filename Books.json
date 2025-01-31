@@ -2,397 +2,463 @@
   {
     "book": {
       "english": "Genesis",
-      "telugu": "ఆదికాండము"
+      "telugu": "ఆదికాండము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Exodus",
-      "telugu": "నిర్గమకాండము"
+      "telugu": "నిర్గమకాండము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Leviticus",
-      "telugu": "లేవీయకాండము"
+      "telugu": "లేవీయకాండము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Numbers",
-      "telugu": "సంఖ్యాకాండము"
+      "telugu": "సంఖ్యాకాండము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Deuteronomy",
-      "telugu": "ద్వితీయోపదేశకాండమ"
+      "telugu": "ద్వితీయోపదేశకాండమ",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Joshua",
-      "telugu": "యెహొషువ"
+      "telugu": "యెహొషువ",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Judges",
-      "telugu": "న్యాయాధిపతులు"
+      "telugu": "న్యాయాధిపతులు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Ruth",
-      "telugu": "రూతు"
+      "telugu": "రూతు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "1-Samuel",
-      "telugu": "సమూయేలు-మొదటి-గ్రంథము"
+      "telugu": "సమూయేలు-మొదటి-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "2-Samuel",
-      "telugu": "సమూయేలు-రెండవ-గ్రంథము"
+      "telugu": "సమూయేలు-రెండవ-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "1-Kings",
-      "telugu": "రాజులు-మొదటి-గ్రంథము"
+      "telugu": "రాజులు-మొదటి-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "2-Kings",
-      "telugu": "రాజులు-రెండవ-గ్రంథము"
+      "telugu": "రాజులు-రెండవ-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "1-Chronicles",
-      "telugu": "దినవృత్తాంతములు-మొదటి-గ్రంథము"
+      "telugu": "దినవృత్తాంతములు-మొదటి-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "2-Chronicles",
-      "telugu": "దినవృత్తాంతములు-రెండవ-గ్రంథము"
+      "telugu": "దినవృత్తాంతములు-రెండవ-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Ezra",
-      "telugu": "ఎజ్రా"
+      "telugu": "ఎజ్రా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Nehemiah",
-      "telugu": "నెహెమ్యా"
+      "telugu": "నెహెమ్యా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Esther",
-      "telugu": "ఎస్తేరు"
+      "telugu": "ఎస్తేరు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Job",
-      "telugu": "యోబు-గ్రంథము"
+      "telugu": "యోబు-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Psalms",
-      "telugu": "కీర్తనలు-గ్రంథము"
+      "telugu": "కీర్తనలు-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Proverbs",
-      "telugu": "సామెతలు"
+      "telugu": "సామెతలు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Ecclesiastes",
-      "telugu": "ప్రసంగి"
+      "telugu": "ప్రసంగి",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Song-of-Songs",
-      "telugu": "పరమగీతము"
+      "telugu": "పరమగీతము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Isaiah",
-      "telugu": "యెషయా-గ్రంథము"
+      "telugu": "యెషయా-గ్రంథము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Jeremiah",
-      "telugu": "యిర్మీయా"
+      "telugu": "యిర్మీయా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Lamentations",
-      "telugu": "విలాపవాక్యములు"
+      "telugu": "విలాపవాక్యములు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Ezekiel",
-      "telugu": "యెహెజ్కేలు"
+      "telugu": "యెహెజ్కేలు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Daniel",
-      "telugu": "దానియేలు"
+      "telugu": "దానియేలు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Hosea",
-      "telugu": "హొషేయ"
+      "telugu": "హొషేయ",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Joel",
-      "telugu": "యోవేలు"
+      "telugu": "యోవేలు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Amos",
-      "telugu": "ఆమోసు"
+      "telugu": "ఆమోసు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Obadiah",
-      "telugu": "ఓబద్యా"
+      "telugu": "ఓబద్యా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Jonah",
-      "telugu": "యోనా"
+      "telugu": "యోనా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Micah",
-      "telugu": "మీకా"
+      "telugu": "మీకా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Nahum",
-      "telugu": "నహూము"
+      "telugu": "నహూము",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Habakkuk",
-      "telugu": "హబక్కూకు"
+      "telugu": "హబక్కూకు",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Zephaniah",
-      "telugu": "జెఫన్యా"
+      "telugu": "జెఫన్యా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Haggai",
-      "telugu": "హగ్గయి"
+      "telugu": "హగ్గయి",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Zechariah",
-      "telugu": "జెకర్యా"
+      "telugu": "జెకర్యా",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Malachi",
-      "telugu": "మలాకీ"
+      "telugu": "మలాకీ",
+      "testament": "old"
     }
   },
   {
     "book": {
       "english": "Matthew",
-      "telugu": "మత్తయి-సువార్త"
+      "telugu": "మత్తయి-సువార్త",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Mark",
-      "telugu": "మార్కు-సువార్త"
+      "telugu": "మార్కు-సువార్త",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Luke",
-      "telugu": "లూకా-సువార్త"
+      "telugu": "లూకా-సువార్త",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "John",
-      "telugu": "యోహాను-సువార్త"
+      "telugu": "యోహాను-సువార్త",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Acts",
-      "telugu": "అపొస్తలుల-కార్యములు"
+      "telugu": "అపొస్తలుల-కార్యములు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Romans",
-      "telugu": "రోమీయులకు"
+      "telugu": "రోమీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "1-Corinthians",
-      "telugu": "1-కొరింథీయులకు"
+      "telugu": "1-కొరింథీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "2-Corinthians",
-      "telugu": "2-కొరింథీయులకు"
+      "telugu": "2-కొరింథీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Galatians",
-      "telugu": "గలతీయులకు"
+      "telugu": "గలతీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Ephesians",
-      "telugu": "ఎఫెసీయులకు"
+      "telugu": "ఎఫెసీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Philippians",
-      "telugu": "ఫిలిప్పీయులకు"
+      "telugu": "ఫిలిప్పీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Colossians",
-      "telugu": "కొలొస్సయులకు"
+      "telugu": "కొలొస్సయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "1-Thessalonians",
-      "telugu": "1-థెస్సలొనీకయులకు"
+      "telugu": "1-థెస్సలొనీకయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "2-Thessalonians",
-      "telugu": "2-థెస్సలొనీకయులకు"
+      "telugu": "2-థెస్సలొనీకయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "1-Timothy",
-      "telugu": "1-తిమోతికి"
+      "telugu": "1-తిమోతికి",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "2-Timothy",
-      "telugu": "2-తిమోతికి"
+      "telugu": "2-తిమోతికి",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Titus",
-      "telugu": "తీతుకు"
+      "telugu": "తీతుకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Philemon",
-      "telugu": "ఫిలేమోనుకు"
+      "telugu": "ఫిలేమోనుకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Hebrews",
-      "telugu": "హెబ్రీయులకు"
+      "telugu": "హెబ్రీయులకు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "James",
-      "telugu": "యాకోబు"
+      "telugu": "యాకోబు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "1-Peter",
-      "telugu": "1-పేతురు"
+      "telugu": "1-పేతురు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "2-Peter",
-      "telugu": "2-పేతురు"
+      "telugu": "2-పేతురు",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "1-John",
-      "telugu": "1-యోహాను"
+      "telugu": "1-యోహాను",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "2-John",
-      "telugu": "2-యోహాను"
+      "telugu": "2-యోహాను",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "3-John",
-      "telugu": "3-యోహాను"
+      "telugu": "3-యోహాను",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Jude",
-      "telugu": "యూదా"
+      "telugu": "యూదా",
+      "testament": "new"
     }
   },
   {
     "book": {
       "english": "Revelation",
-      "telugu": "ప్రకటన-గ్రంథము"
+      "telugu": "ప్రకటన-గ్రంథము",
+      "testament": "new"
     }
   }
 ]
